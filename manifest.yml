@@ -23,3 +23,9 @@ app:
     memoryMB: 256
     architecture: arm64
   id: ari:cloud:ecosystem::app/149af6b4-27d0-4242-9543-e351ff624b48
+permissions:
+  external:
+    fetch:
+      backend:
+        - api.openweathermap.org
+

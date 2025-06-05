@@ -9,6 +9,4 @@ resolver.define('getText', (req) => {
   return 'Hello, world!';
 });
 
-
-
 export const handler = resolver.getDefinitions();
