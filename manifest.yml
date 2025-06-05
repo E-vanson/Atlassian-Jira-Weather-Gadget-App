@@ -28,4 +28,4 @@ permissions:
     fetch:
       backend:
         - api.openweathermap.org
-
+  
